@@ -1,3 +1,4 @@
+# Principles of Urban Science 2024
 Why are you taking the class and what are you expect to learn from it?
 
 I am from the Department of Human Development and Family Science. Unfortunately, our department does not offer courses specifically in data science or machine learning, which are areas of great interest to me. I am eager to expand my knowledge in these fields, as they have significant applications in my research area. By learning more about data analysis and machine learning in your class, I hope to better analyze and interpret the datasets I work with.

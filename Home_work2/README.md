@@ -1,4 +1,6 @@
  what the homework was about in your own words
+
+ 
 The homework involved developing a general idea on a specific and important issue using our knowledge, literature, and theory. I then needed to formulate alternative and null hypotheses based on this idea. Finally, I assessed the strengths and weaknesses of the experimental design we plan to use for testing these hypotheses.
 
 2 - who you worked with
